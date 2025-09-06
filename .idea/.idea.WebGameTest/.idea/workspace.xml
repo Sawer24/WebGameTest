@@ -8,13 +8,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="44648157-6495-4c35-9c76-706fc91ea461" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.WebGameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebGameTest/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/WebGameTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebGameTest/Program.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/compose.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/compose.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DpaMonitoringSettings">
+    <option name="firstShow" value="false" />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -31,6 +33,9 @@
     "accountId": "5f5b4bba-a53e-4916-acce-87ef2c110a80"
   }
 }]]></component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="mock://D:/VSProjects/WebGameTest/WebGameTest/Program.cs" root0="SKIP_HIGHLIGHTING" />
+  </component>
   <component name="MetaFilesCheckinStateConfiguration" checkMetaFiles="true" />
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
@@ -124,7 +129,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757186975100</updated>
-      <workItem from="1757186977155" duration="2211000" />
+      <workItem from="1757186977155" duration="3147000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -142,7 +147,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757188867286</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="ping">
+      <option name="closed" value="true" />
+      <created>1757189968706</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1757189968706</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -164,7 +177,8 @@
   <component name="VcsManagerConfiguration">
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="true" />
     <MESSAGE value="initial commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit" />
+    <MESSAGE value="ping" />
+    <option name="LAST_COMMIT_MESSAGE" value="ping" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
