@@ -1,0 +1,7 @@
+﻿services:
+  webgametest:
+    image: webgametest
+    build:
+      context: .
+      dockerfile: WebGameTest/Dockerfile
+
