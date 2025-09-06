@@ -9,6 +9,7 @@
   <component name="ChangeListManager">
     <list default="true" id="44648157-6495-4c35-9c76-706fc91ea461" name="Changes" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/.idea.WebGameTest/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.WebGameTest/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/WebGameTest/Program.cs" beforeDir="false" afterPath="$PROJECT_DIR$/WebGameTest/Program.cs" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -45,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    ".NET Launch Settings Profile.WebGameTest: http.executor": "Debug",
     "ASKED_SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
@@ -122,7 +124,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757186975100</updated>
-      <workItem from="1757186977155" duration="905000" />
+      <workItem from="1757186977155" duration="2211000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <option name="closed" value="true" />
@@ -132,7 +134,15 @@
       <option name="project" value="LOCAL" />
       <updated>1757187156820</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit">
+      <option name="closed" value="true" />
+      <created>1757188867286</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1757188867286</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

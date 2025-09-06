@@ -12,6 +12,8 @@ app.UseDefaultFiles();
 app.UseStaticFiles();
 app.UseWebSockets();
 
+app.Map("/ping", () => "pong");
+
 app.Map("/ws", async context =>
 {
     if (!context.WebSockets.IsWebSocketRequest)
